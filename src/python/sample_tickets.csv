@@ -1,0 +1,6 @@
+ticket_id,created_at,channel,text
+1,2026-01-04 09:10:00,email,"Hi team, I need a REFUND for order ORD-1029. Item came damaged."
+2,2026-01-04 09:20:00,chat,"Cannot login since yesterday, password reset email not received."
+3,2026-01-04 09:45:00,email,"Where is my package? Tracking page does not update."
+4,2026-01-04 10:03:00,chat,"refund requested for ord-7788 and still waiting."
+5,2026-01-04 10:30:00,web,"Login issue on mobile app, password field keeps failing."
