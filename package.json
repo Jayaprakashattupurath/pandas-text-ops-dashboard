@@ -1,0 +1,21 @@
+{
+  "name": "pandas-text-ops-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Small example: pandas text best practices + Node API + React frontend",
+  "scripts": {
+    "api": "node src/server/index.js",
+    "web": "vite src/web --port 5173",
+    "dev": "concurrently \"npm:api\" \"npm:web\""
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.1",
+    "vite": "^5.4.8"
+  }
+}
